@@ -73,9 +73,6 @@ public class DinoDay2{
             
     }
 //Quick Note:
-/*Protected means:
-
-This method or variable can be used by:
-The class itself (obviously)
-Subclasses (classes that extend this class)
-Other classes in the same package */
+// KeyListener makes dino jump
+// repaint() redraws the panel
+// paintComponent draws dino rectangle
